@@ -1,0 +1,7 @@
+# Ignore Rust build artifacts
+target/
+Cargo.lock
+
+# Ignore .NET build artifacts
+bin/
+obj/

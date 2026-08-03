@@ -1,0 +1,9 @@
+[package]
+name = "WmmrTransitionPlugin"
+version = "0.1.0"
+edition = "2021"
+
+[project]
+output_type = "library"
+
+[dependencies]
